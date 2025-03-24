@@ -1,0 +1,82 @@
+.container-form {
+  position: absolute;
+  top: 55%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 25%;
+  color: white;
+  background: linear-gradient(to right, rgb(78, 75, 75), rgb(8, 8, 8));
+  border-radius: 10px;
+}
+
+.form-control {
+  width: 250px;
+}
+
+.h1-login {
+  padding-bottom: 30px;
+}
+
+.h2-login {
+  text-align: center;
+  padding: 30px;
+}
+
+
+.botao-login {
+  width: 100px;
+}
+
+.custom-navbar {
+  background: linear-gradient(to right, rgb(78, 75, 75), rgb(8, 8, 8));
+  padding: 25px;
+  margin-bottom: 20px;
+}
+
+.d-flex {
+  width: 200px;
+}
+
+.container-fluid {
+  margin-left: 20px;
+}
+
+.header-login {
+  text-align: center;
+}
+
+.custom-navbar {
+  background: linear-gradient(to right, rgb(78, 75, 75), rgb(8, 8, 8));
+  padding: 25px;
+  margin-bottom: 20px;
+}
+
+.main-login {
+  position: absolute;
+  top: 55%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.form-login {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 30px;
+  padding-top: 80px;
+}
+
+.footer-login {
+  position: fixed;
+  bottom: 10px;
+  left: 50%;
+  transform: translate(-50%);
+}
+
+.a-login {
+  text-decoration: none;
+  color: white;
+}
+
+/* fim da pagina login */
