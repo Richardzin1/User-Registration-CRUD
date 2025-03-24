@@ -1,4 +1,4 @@
-# User Registration CRUD with Laravel 11
+# User Registration CRUD with Laravel 12
 
 ## Description
 
